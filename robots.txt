@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vanquisherglorify.github.io/sitemap.xml
